@@ -256,6 +256,7 @@ Check Doc/Hubbard_input.pdf for more details. ]
 ```
 
 
+
 - `bands.x`输入文件结构如下，具体参考 `bands.x`手册([https://www.quantum-espresso.org/Doc/INPUT_BANDS.html](https://www.quantum-espresso.org/Doc/INPUT_BANDS.html)):
 
 ```
